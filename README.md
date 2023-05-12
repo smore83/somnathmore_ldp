@@ -1,1 +1,1 @@
-Zemoso JAva Assignments
+Zemoso Java Assignments
